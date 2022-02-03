@@ -30,5 +30,5 @@ darewarehouse mode used is -> star schema why ?? just to keep it simple and ther
 
 kindly note that there is alot to do and this repo is not complete yet.
 
-################ that's all ########
-################ Thank You  ########
+
+################ Thank You  ########################
