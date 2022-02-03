@@ -2,7 +2,7 @@
 ![alt text](https://github.com/BillMarkEg/Assignments/blob/main/images.jpg)
 
 
-####################################### Hi Dear !! ################################################
+#################### Hi Dear !! ###########################
 ### Gelato Assignment
 ###  yet another python repo
 
@@ -29,7 +29,6 @@ darewarehouse mode used is -> star schema why ?? just to keep it simple and ther
 
 
 kindly note that there is alot to do and this repo is not complete yet.
-             
-####################################### that's all ################################################
 
-####################################### Thank You  ################################################
+######################## that's all ################################
+######################## Thank You  ################################
