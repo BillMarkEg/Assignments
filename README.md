@@ -14,3 +14,4 @@ kindly note that there is alot to do and this repo is not complete yet.
 
 ####################################### Thank You  ################################################
              
+https://github.com/BillMarkEg/Assignments/blob/main/fact_table.png
